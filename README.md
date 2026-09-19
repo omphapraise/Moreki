@@ -88,26 +88,3 @@ The app is designed as a functional prototype and focuses on demonstrating core 
 
 ---
 
-# 🧠 What improved (and why it matters)
-
-### ✔ More academic tone (without sounding robotic)
-- “designed to support…” instead of “aimed at…”
-
-### ✔ Better structure for markers
-- Clear sections = faster marking = better impression
-
-### ✔ Explicit “Data Storage” section
-- This is something lecturers **look for even if not stated**
-
-### ✔ Cleaner feature explanations
-- No unnecessary wording  
-- Still shows understanding  
-
----
-
-# ⚠️ One small thing you can still add (optional but strong)
-
-Under **Financial Score**, you could add:
-
-```markdown
-This score provides a simple indicator of financial health based on spending habits.
