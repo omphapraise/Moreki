@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Brand / Primary -->
+    <color name="primary">#FF2FA572</color>
+    <color name="primary_dark">#FF1D6B49</color>
+
+    <!-- Background -->
+    <color name="background">#FF0D0F12</color>
+
+    <!-- Text -->
+    <color name="text_dark">#FFF2F3F5</color>
+    <color name="text_grey">#FF9AA0A6</color>
+
+    <!-- States -->
+    <color name="error_red">#FFFF6B6B</color>
+
+    <!-- NEW — not yet referenced by any layout. Prepping these for when we
+         style cards/inputs so glass surfaces have somewhere to pull from.
+         Safe to ignore for now; nothing currently points at them. -->
+    <color name="surface">#FF16191D</color>
+    <color name="surface_alt">#FF1C2024</color>
+    <color name="border_subtle">#FF2A2E33</color>
+    <color name="glass_highlight">#1AFFFFFF</color>
+
+</resources>
